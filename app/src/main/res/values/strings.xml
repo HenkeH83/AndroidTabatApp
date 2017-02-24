@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IntervalApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="activityString">Activity </string>
+    <string name="timerString">Timer </string>
+    <string name="lapsString">Laps </string>
+    <string name="start">Start</string>
+    <string name="setup">Setup</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="done">Done</string>
+    <string name="setRun"></string>
+    <string name="setRest"></string>
+    <string name="setLap"></string>
+
+</resources>

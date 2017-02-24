@@ -1,0 +1,7 @@
+#Fri Feb 24 13:13:49 CET 2017
+base.0=D\:\\Android Studio Project\\IntervalApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_471a53bcc0eeb119e3406fb2f091dc40ab1b9612
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android Studio Project\\IntervalApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_14a7cb73fe3d751e1744d17b9bc8e8b393f945e5\\classes.dex
+base.1=D\:\\Android Studio Project\\IntervalApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_14a7cb73fe3d751e1744d17b9bc8e8b393f945e5
+file.0=D\:\\Android Studio Project\\IntervalApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_471a53bcc0eeb119e3406fb2f091dc40ab1b9612\\classes.dex

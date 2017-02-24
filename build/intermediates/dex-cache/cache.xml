@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_b571f4cbed3820b0c5dab258a9c72725aa88228c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_a0687ecd42ee442164870d8939d8ee26effa43a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_38ee424cb15ca4fcbaca45ce4f48772fa93ba7fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c41b2b932c56e2e852ec02625628eda179683d5">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_471a53bcc0eeb119e3406fb2f091dc40ab1b9612\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_80657ef88e9bf112ea2c4240a3f125d9d7b31a08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_3102429818ac9ef7d2e2a907b0e3e018c4ef5ba6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ce8e742173ca72701f7429abcead4b086b7f7115\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_941f617a70a8bccbd1a4b64ff3ed433d7f85daa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_86cc5f1970f3501c35829f544ec2d5b177bc8412\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_ea34df4c3d89eecddce9c1bfeb54d6c55fb5c0a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_c74b6cb90cd8b058e45ed4bfc027a48291cb3c32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_3e5bfd76e340b088a01eb6766ad86fe49ae82fd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_4bf0d9363f9119e595a97ee746a01a0ef3153db7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_e7394c7e8d3d58af15ac39805d38e030019cdd7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="13f5ae90cc130bf1ff909a1ce01e7a6259e92c6c">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_14a7cb73fe3d751e1744d17b9bc8e8b393f945e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_85d88d56d32e8a1c4de92be0b3aecebf93ad55aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_9f3f8f320b164186c34c9416c72cd3a500d46b3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_5cd1a565b403608c1551f5a3dd156ae9e7863abd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio Project\IntervalApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_cba2149c229d390a2d9a9d14dcbfa502d0b21933\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henke\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Android Studio Project\IntervalApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_3dc5b2f7c23b0ccbf2d8b1f35d98376befd97446\classes.dex" />
+    </item>
+
+</items>

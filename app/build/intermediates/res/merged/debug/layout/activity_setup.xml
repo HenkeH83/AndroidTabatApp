@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_setup"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="henke.intervalapp.Activity_setup">
+
+    <Button
+        android:text="@string/done"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="21dp"
+        android:textSize="23dp"
+        android:id="@+id/btnDone"
+        android:onClick="doneButton"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:layout_marginBottom="66dp"
+        android:id="@+id/setRun"
+        android:text="@string/setRun"
+        android:layout_above="@+id/setRest"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/black"
+        android:hint="Run time in sec" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:layout_marginBottom="52dp"
+        android:id="@+id/setLap"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:text="@string/setLap"
+        android:layout_above="@+id/btnDone"
+        android:layout_alignParentStart="true"
+        android:hint="Number of Laps" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/setRest"
+        android:text="@string/setRest"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:layout_marginBottom="44dp"
+        android:layout_above="@+id/setLap"
+        android:layout_alignParentStart="true"
+        android:hint="Rest time in sec" />
+
+</RelativeLayout>
